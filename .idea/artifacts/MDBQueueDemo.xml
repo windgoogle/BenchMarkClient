@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="MDBQueueDemo">
+    <output-path>$PROJECT_DIR$/../MDBQueueDemo</output-path>
+    <root id="archive" name="MDBQueueDemo.jar">
+      <element id="artifact" artifact-name="MDBQueueDemo:ejb exploded" />
+    </root>
+  </artifact>
+</component>

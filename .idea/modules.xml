@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BenchMarkClient.iml" filepath="$PROJECT_DIR$/BenchMarkClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BenchMarkEJB/BenchMarkEJB.iml" filepath="$PROJECT_DIR$/../BenchMarkEJB/BenchMarkEJB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EJBContainerTestCase/EJBContainerTestCase.iml" filepath="$PROJECT_DIR$/../EJBContainerTestCase/EJBContainerTestCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MDBQueueDemo/MDBQueueDemo.iml" filepath="$PROJECT_DIR$/../MDBQueueDemo/MDBQueueDemo.iml" />
+    </modules>
+  </component>
+</project>
